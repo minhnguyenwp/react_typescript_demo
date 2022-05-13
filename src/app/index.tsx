@@ -32,6 +32,7 @@ export function App() {
         <Route exact path={`${process.env.PUBLIC_URL}`} component={HomePage} />
         <Route component={NotFoundPage} />
       </Switch>
+      
       <GlobalStyle />
     </BrowserRouter>
   );

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "New Games",
+        "code": "new"
+    },
+    {
+        "name": "Top Games",
+        "code": "top"
+    },
+    {
+        "name": "Slots",
+        "code": "slots"
+    },
+    {
+        "name": "Jackpots",
+        "code": "jackpots"
+    },
+    {
+        "name": "Live",
+        "code": "live"
+    },
+    {
+        "name": "Blackjack",
+        "code": "blackjack"
+    },
+    {
+        "name": "Roulette",
+        "code": "roulette"
+    },
+    {
+        "name": "Table",
+        "code": "table"
+    },
+    {
+        "name": "Poker",
+        "code": "poker"
+    },
+    {
+        "name": "Other",
+        "code": "other"
+    }
+]

@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should render and match the snapshot 1`] = `
+<mockConstructor>
+  <Helmet
+    defaultTitle="React Test DEMO"
+    defer={true}
+    encodeSpecialCharacters={true}
+    htmlAttributes={
+      Object {
+        "lang": "en-US",
+      }
+    }
+    prioritizeSeoTags={false}
+    titleTemplate="%s - React Test DEMO"
+  >
+    <meta
+      content="A React Test DEMO application"
+      name="description"
+    />
+  </Helmet>
+  <mockConstructor>
+    <mockConstructor
+      component={[Function]}
+      exact={true}
+      path=""
+    />
+    <mockConstructor
+      component={[Function]}
+    />
+  </mockConstructor>
+  <Memo(l) />
+</mockConstructor>
+`;

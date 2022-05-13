@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardGame Should render the correct snapshot 1`] = `
+<div
+  className="cell-20 game-item"
+>
+  <CardGame__Card
+    className="card"
+  >
+    <Memo
+      alt="Test Game"
+      className="game-pic"
+      placeholder="loading.gif"
+      src="//stage.whgstage.com/scontent/images/games/NETHEWISHMASTER.jpg"
+    />
+    <CardGame__Ribbon
+      className="ribbon"
+      imgUrl="new_ribbon.png"
+    />
+    <Memo
+      gameId="Test"
+    />
+    <div
+      className="display-card-group m-aligner"
+    >
+      <div>
+        <p
+          className="g-name"
+        >
+          Test Game
+        </p>
+        <CardGame__ButtonPlay>
+          Play
+        </CardGame__ButtonPlay>
+      </div>
+    </div>
+  </CardGame__Card>
+</div>
+`;

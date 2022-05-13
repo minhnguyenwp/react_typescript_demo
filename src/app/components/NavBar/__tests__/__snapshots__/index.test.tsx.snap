@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NavBar /> should match snapshot 1`] = `
+<NavBar__Wrapper>
+  <div
+    className="header-inner"
+  >
+    <PageWrapper
+      className="hhead m-aligner-left"
+    >
+      <Memo />
+    </PageWrapper>
+  </div>
+</NavBar__Wrapper>
+`;
